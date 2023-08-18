@@ -1,0 +1,30 @@
+/* ==================== | html | ==================== */
+html {
+    margin: 0;
+    background-color: #102020;
+    color: #d5c3c3;
+}
+
+html a {
+    color: cornflowerblue;
+}
+
+html a:visited {
+    color: rebeccapurple;
+}
+
+/* ==================== | body | ==================== */
+body {
+    margin: 0;
+}
+
+/* ==================== | .container | ==================== */
+.container {
+    margin: 1em;
+    text-align: center;
+}
+
+/* ==================== | .top | ==================== */
+.top {
+    margin: 0;
+}
