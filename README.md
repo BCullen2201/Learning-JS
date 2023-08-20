@@ -1,2 +1,2 @@
 # Learning-JS
-[Video I'm using to learn](https://youtu.be/SBmSRK3feww)
+[Video I'm using to learn](https://youtu.be/PkZNo7MFNFg)
